@@ -8,7 +8,7 @@ export default function Login (){
             <TextInput style={styles.input} />
             <TextInput style={styles.input} secureTextEntry={true}/>
             <TouchableOpacity style={styles.botao} >
-                    <text style={styles.input} >Login</text>
+                    <text style={styles.input} >fazer.Login</text>
             </TouchableOpacity>
         </View>
 
